@@ -33,7 +33,7 @@ ORDEN_O = ["Baja", "Media-baja", "Media-alta", "Alta"]
 ORDEN_O3 = ["Baja", "Media", "Alta"]
 ORDEN_W = ["1 palabra", "2 palabras", "3 palabras", "4 o más"]
 
-# Codigos de "no respuesta / no detectado" identificados en la base (tipicos de Spotify).
+# Codigos de "no respuesta / no detectado" identificados en la base.
 # Se convierten a NaN antes de calcular.
 CODIGOS_NO_RESPUESTA = {
     "Time_Signature": [0],
