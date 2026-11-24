@@ -45,7 +45,7 @@ Por lo tanto, se observa una pequeña diferencia entre ambos modos musicales. En
 
 ```
 datos/        base\_original.xlsx · df\_pob.csv · parametros.json
-notebooks/    tfi\_grupogafd.ipynb
+notebooks/    tfi_grupogafd.ipynb
 figuras/      gráficos exportados a 150 dpi
 funciones.py  preparar, media, varianza\_pob, mediana, sturges, bayes, dibujar\_arbol, pmf\_\*
 requirements.txt
