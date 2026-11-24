@@ -31,7 +31,7 @@ la probabilidad de que sea muy popular (Popularity > 70)? Respuesta: Para determ
 
 
 
-La probabilidad de que una canción sea muy popular en modo MENOR es del \*\*17,39%\*\*, mientras que en modo MAYOR es del \*\*14,47%\*\*.
+La probabilidad de que una canción sea muy popular en modo MENOR es del **17,39%**, mientras que en modo MAYOR es del **14,47%**.
 
 
 
