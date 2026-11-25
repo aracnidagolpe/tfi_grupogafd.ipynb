@@ -52,6 +52,7 @@ requirements.txt
 README.md
 ```
 ## Cómo ejecutar el colab
-1. Abrir en colab el archivo tfi_grupogafd.ipynb.
-2. Descargar funciones.py, y subirlas en el colab.
-3. La base de datos se ejecuta en la sección de configuración del colab, pero si ocurre algún error adjuntamos el link del excel en Github. En ese caso, se debe de descargar la base de datos y subirla junto funciones.py en el colab.
+1. pip install -r requirements.txt (en Colab ya están casi todas).
+2. Abrir en colab el archivo tfi_grupogafd.ipynb.
+3. Descargar funciones.py, y subirlas en el colab.
+4. La base de datos se ejecuta en la sección de configuración del colab, pero si ocurre algún error adjuntamos el link del excel en Github. En ese caso, se debe de descargar la base de datos y subirla junto funciones.py en el colab.
